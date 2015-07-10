@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BrrrBayBay.PwmLogic.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AutoUpdateCheck" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SampleRate" Type="BrrrBayBay.LogicPWMLib.LogicSampleRate" Scope="User">
+      <Value Profile="(Default)">f1M</Value>
+    </Setting>
+    <Setting Name="UseHighPriority" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GenerationMode" Type="BrrrBayBay.PwmLogic.PwmControlMode" Scope="User">
+      <Value Profile="(Default)">GenericAsync</Value>
+    </Setting>
+    <Setting Name="ColoredChannelBorders" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowRealValueToolTips" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
